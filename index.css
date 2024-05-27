@@ -18,6 +18,8 @@ body {
 }
 
 #toy-collection {
+  text-align: center;
+  justify-content: center;
   margin: 2rem;
 }
 
@@ -87,7 +89,6 @@ button:hover {
   border: #e04b52 solid 1px;
   color: #e04b52;
 }
-
 
 .input-text {
   border-radius: 5px;
